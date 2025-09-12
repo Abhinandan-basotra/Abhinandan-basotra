@@ -13,7 +13,7 @@
 - 👨‍💻 Check out my projects: [GitHub Portfolio](https://github.com/Abhinandan-basotra)  
 - 💬 Ask me about **MERN, TypeScript, REST APIs, GitHub, DSA**  
 - 📫 Reach me at: **abhinandanbasotra22@gmail.com**  
-- 📄 [My Resume](https://docs.google.com/document/d/1SZfIYKumwQDy8VcQ4yO4zA-RrDNS_PaAYRPz7ZhFOTE/edit?usp=sharing)  
+- 📄 [My Resume]([https://docs.google.com/document/d/1SZfIYKumwQDy8VcQ4yO4zA-RrDNS_PaAYRPz7ZhFOTE/edit?usp=sharing])  
 
 ---
 
