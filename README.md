@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me:
-- 🔭 Currently working on **College Loop**  
+- 🔭 Currently working on **Campus Loop**  
 - 🌱 Learning **TypeScript & Advanced MERN Stack**  
 - 👨‍💻 Check out my projects: [GitHub Portfolio](https://github.com/Abhinandan-basotra)  
 - 💬 Ask me about **MERN, TypeScript, REST APIs, GitHub, DSA**  
