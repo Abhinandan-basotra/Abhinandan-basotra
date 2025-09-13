@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 - 🔭 Currently working on **Campus Loop**  
-- 🌱 Learning **TypeScript & Advanced MERN Stack**  
+- 🌱 Learning **Postgres and Nextjs**  
 - 👨‍💻 Check out my projects: [GitHub Portfolio](https://github.com/Abhinandan-basotra)  
 - 💬 Ask me about **MERN, TypeScript, REST APIs, GitHub, DSA**  
 - 📫 Reach me at: **abhinandanbasotra22@gmail.com**  
